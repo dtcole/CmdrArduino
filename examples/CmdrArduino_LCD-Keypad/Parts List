@@ -1,0 +1,13 @@
+Parts List
+1 x Arduino UNO or compatible (ie microduino)
+1 x I2C LCD
+1 x 12 digit keypad
+6 x push buttons
+1 x potentiometer
+? x ?? resistors
+1 x booster (or build a h-bridge).
+
+wire
+ - red wire   (+VDC)
+ - black wire (GND)
+ - other colours to identify data connections.
